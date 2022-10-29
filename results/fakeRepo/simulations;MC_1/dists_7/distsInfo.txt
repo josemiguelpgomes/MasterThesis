@@ -1,0 +1,11 @@
+commitsDist: powerlaw
+selectAuthorRule: greaterProbability
+developerToBeChosenToStartToCommit: greaterProbabilityTheMoreCommitsToDo
+developerToBeChosenToCommit: greaterProbabilityTheMoreCommitsToDo
+filesAddedDist: uniform
+percentageOfAddedFilesInFirstCommit: 0
+differentNumberOfFilesAdded: 1
+filesDeletedDist: uniform
+filesChangedDist: uniform
+datetimeDiffs: uniform
+paramsId: 7

@@ -1,0 +1,11 @@
+commitsDist: uniform
+selectAuthorRule: random
+developerToBeChosenToStartToCommit: -
+developerToBeChosenToCommit: -
+filesAddedDist: uniform
+percentageOfAddedFilesInFirstCommit: 0
+differentNumberOfFilesAdded: 1
+filesDeletedDist: uniform
+filesChangedDist: uniform
+datetimeDiffs: uniform
+paramsId: 1
