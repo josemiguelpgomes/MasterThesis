@@ -1,4 +1,4 @@
-Before reading or using this code, it is recommended to read the Master Thesis "Simulation of the emergent patterns of developers’ collaboration through their interactions with files" by José Miguel Pereira Gomes.
+Before reading or using this code, it is recommended to read the Master Thesis "Simulation of collaboration networks in software development" by José Miguel Pereira Gomes.
 
 Any doubts you may have, please contact me through email: `josemiguelg@tecnico.ulisboa.pt`
 
